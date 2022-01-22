@@ -2,7 +2,7 @@
 ### I am CS Grad student at Dalhousie University, Canada <img src="https://user-images.githubusercontent.com/65498025/150650021-a7e01e2f-86e8-46f6-8165-dd2bedcf57fd.png" width="15"/> from India <img src="https://user-images.githubusercontent.com/65498025/150650107-6d022b85-09c8-4c29-b888-3fa3963ed360.png" width="15"/> 
 
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/65498025/150651442-0425f9de-890d-486a-bfa5-24aedb8bd12c.png" width="500" height="320" />
-<h3>Things I code with</h3>
+<h3>Things I code and work with </h3>
 <p>  
 
   <img alt="Python" src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python&logoColor=white" />
@@ -22,7 +22,7 @@
 <p> I'm an Analytics professional with 3.5 years of work experience across the Insurance and Banking Industry. Experience in working with Fortune 500 companies to help them make data-driven decisions by leveraging business knowledge, math, and programming
   </p>
   
-<h3>Find me on :</h3>
+<h3>Find me on </h3>
 <p><a href="mailto:guryash.dhall@dal.ca" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" 
   <a/>&nbsp;</a> <a href="https://twitter.com/guryashD" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/guryashsingh/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
