@@ -1,7 +1,7 @@
 # Hey there  👋 
 ### I am CS Grad student at Dalhousie University, Canada <img src="https://user-images.githubusercontent.com/65498025/150650021-a7e01e2f-86e8-46f6-8165-dd2bedcf57fd.png" width="15"/> from India <img src="https://user-images.githubusercontent.com/65498025/150650107-6d022b85-09c8-4c29-b888-3fa3963ed360.png" width="15"/> 
 
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/65498025/150651442-0425f9de-890d-486a-bfa5-24aedb8bd12c.png" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/65498025/150651442-0425f9de-890d-486a-bfa5-24aedb8bd12c.png" width="450" height="320" />
 <h3>Things I code with </h3>
 <p>  
 
