@@ -26,5 +26,14 @@
 <p> I'm an Analytics professional with 3.5 years of work experience across the Insurance and Banking Industry. Experience in working with Fortune 500 companies to help them make data-driven decisions by leveraging business knowledge, math, and programming
   </p>
 
+## &#x1f4c8; GitHub Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guryashdhall&theme=dark&background=000000)](https://git.io/streak-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guryashdhall&layout=compact&theme=vision-friendly-dark)](https://github.com/guryashdhall/github-readme-stats)
+
+<a href="https://github.com/GURY/guryashdhall">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guryashdhall&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Guryash's GitHub Stats" />
+</a>
 
 
