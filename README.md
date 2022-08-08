@@ -1,7 +1,11 @@
 # Hey there  👋 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Teaching+Assistant;Data+Scientist;Automation+Specialist;Software+Engineer;Machine+Learning+Specialist;&center=true&width=800&height=80&font=Time+New+Roman&color=#FFFFFF&size=30"></a>
+</p>
+
 ### I am a CS Grad student at Dalhousie University, Canada <img src="https://user-images.githubusercontent.com/65498025/150650021-a7e01e2f-86e8-46f6-8165-dd2bedcf57fd.png" width="15"/> from India <img src="https://user-images.githubusercontent.com/65498025/150650107-6d022b85-09c8-4c29-b888-3fa3963ed360.png" width="15"/> 
 
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/65498025/150651442-0425f9de-890d-486a-bfa5-24aedb8bd12c.png" width="450" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="250" />
 <h3>Things I code with </h3>
 <p>  
 
@@ -21,8 +25,6 @@
 
 <p> I'm an Analytics professional with 3.5 years of work experience across the Insurance and Banking Industry. Experience in working with Fortune 500 companies to help them make data-driven decisions by leveraging business knowledge, math, and programming
   </p>
-  
-<h3>Find me on </h3>
-<p><a href="mailto:guryash.dhall@dal.ca" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" 
-  <a/>&nbsp;</a> <a href="https://twitter.com/guryashD" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/guryashsingh/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
+
+
+
