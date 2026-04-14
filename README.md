@@ -1,30 +1,89 @@
-# Hey there  👋 
+<h1 align="center">Hey, I'm Guryash 👋</h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Teaching+Assistant;Data+Scientist;Automation+Specialist;Software+Engineer;Machine+Learning+Specialist;&center=true&width=800&height=80&font=Time+New+Roman&color=#FFFFFF&size=30"></a>
+  <em>Data & AI Consultant · Healthcare × Manufacturing · Montreal, Canada</em>
 </p>
 
-### I am a CS Grad student at Dalhousie University, Canada <img src="https://user-images.githubusercontent.com/65498025/150650021-a7e01e2f-86e8-46f6-8165-dd2bedcf57fd.png" width="15"/> from India <img src="https://user-images.githubusercontent.com/65498025/150650107-6d022b85-09c8-4c29-b888-3fa3963ed360.png" width="15"/> 
-
-## Things I code with
-
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
-
-<p>  
-
-
-
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/guryashdhall/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-guryashdhall-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.guryash.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-guryash.com-111827?style=flat-square&logo=globe&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Consulting%20%26%20Collaboration-10B981?style=flat-square" />
 </p>
 
-<p> I'm an Analytics professional with 3.5 years of work experience across the Insurance and Banking Industry. Experience in working with Fortune 500 companies to help them make data-driven decisions by leveraging business knowledge, math, and programming
-  </p>
+---
 
-## &#x1f4c8; GitHub Stats
+I work at the intersection of **AI, data engineering, and clinical/operational workflows** — helping health systems and industrial teams cut through complexity and ship things that actually work.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guryashdhall&theme=dark&background=000000)](https://git.io/streak-stats) 
+My background spans EHR integration, clinical workflow redesign, ETL pipelines, AI agent development, and Microsoft Fabric. I've worked in healthcare, manufacturing, and supply chain — typically on projects where messy data meets high-stakes decisions.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guryashdhall&layout=compact&theme=vision-friendly-dark)](https://github.com/guryashdhall/github-readme-stats)
+---
 
-<a href="https://github.com/GURY/guryashdhall">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guryashdhall&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Guryash's GitHub Stats" />
-</a>
+## What I Work On
+
+| Area | What it looks like in practice |
+|---|---|
+| 🏥 **Healthcare AI** | EHR integration (Epic, Cerner), HL7/FHIR, clinical workflow automation, AI governance |
+| 🏗️ **Data Engineering** | Medallion architecture, Microsoft Fabric, Databricks, ETL pipelines, multi-source consolidation |
+| 🤖 **AI Agents & Automation** | Claude API, Azure OpenAI, n8n workflows, LLM-powered tools |
+| 🏭 **Manufacturing & Supply Chain** | Operational data pipelines, reporting automation, AI readiness |
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+
+**Data & AI**
+
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+**Cloud & Infra**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+
+**Standards & Interoperability**
+
+![HL7 FHIR](https://img.shields.io/badge/HL7%20FHIR-E84393?style=flat-square&logoColor=white)
+![Epic](https://img.shields.io/badge/Epic%20EHR-C41230?style=flat-square&logoColor=white)
+![Cerner](https://img.shields.io/badge/Cerner-005EB8?style=flat-square&logoColor=white)
+
+---
+
+## A Few Things I've Built / Shipped
+
+> *Projects being added — check back soon or reach out if you want to collaborate.*
+
+- 🔄 **Multi-source ETL consolidation** — unified 5 operational data sources, eliminating 4+ hours of daily manual work
+- 🏥 **Clinical AI workflow redesign** — reduced physician administrative burden by ~70%
+- 🤖 **AI agent pipelines** — built end-to-end automation workflows using Claude API + n8n for operational use cases
+- 📊 **Microsoft Fabric migration** — transitioning legacy data warehouses to Medallion architecture
+
+---
+
+## Currently
+
+- 🔭 Working on AI and data engineering projects in healthcare and manufacturing
+- 🌱 Building in public under the **HealthTech Singh** brand
+- 💬 Open to consulting engagements, collaborations, and interesting problems
+- 📍 Based in Montreal, Canada
+
+---
+
+<p align="center">
+  <i>If you're working on something interesting in health AI or operational data — let's talk.</i>
+</p>
