@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guryashdhall/" target="_blank">
+  <a href="https://www.linkedin.com/in/guryashSingh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-guryashdhall-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.guryash.com" target="_blank">
